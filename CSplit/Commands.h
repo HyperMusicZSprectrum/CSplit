@@ -1,0 +1,11 @@
+#pragma once
+#include "Config.h"
+#include "Clone.h"
+#include "Status.h"
+#include "Log.h"
+#include "Pull.h"
+#include "Push.h"
+#include "Add.h"
+#include "Commit.h"
+#include "Merge.h"
+#include "Help.h"
